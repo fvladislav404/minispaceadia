@@ -1,5 +1,4 @@
 body{background-color:black;
-
 font-family:monospace;
 }
 .logo{width: 550px;
@@ -251,5 +250,58 @@ border:5px solid white;
 width:100px;
 position: relative;
 float:right;
+border-radius: 10px;
+border:5px solid white;
+}
+.proxima{margin-top: 100px;}
+
+.proximaimg{height:75px;
+width:100px;
+position: relative;
+float:right;
+border-radius: 10px;
+border:5px solid white;
+}
+.proximaimg2{height:90px;
+width:100px;
+position: relative;
+float:left;
+border-radius: 10px;
+border:5px solid white;
+}
+
+.luman{margin-top:100px
+}
+
+.lumanimg{height:90px;
+width:130px;
+position: relative;
+float:left;
+border-radius: 10px;
+border:5px solid white;
+}
+
+.lumanimg2{height:85px;
+width:130px;
+position: relative;
+float:right;
+border-radius: 10px;
+border:5px solid white;
+}
+
+.sirius{margin-top: 100px;
+}
+
+.siriusimg{height:80px;
+width:130px;
+position: relative;
+float:right;
+border-radius: 10px;
+border:5px solid white;}
+
+.siriusimg2{height:95px;
+width:100px;
+position: relative;
+float:left;
 border-radius: 10px;
 border:5px solid white;}
