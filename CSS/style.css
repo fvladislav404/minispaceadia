@@ -1,0 +1,255 @@
+body{background-color:black;
+
+font-family:monospace;
+}
+.logo{width: 550px;
+height: 310px;
+position:relative;
+top: 0;
+left:0;
+border-radius: 15px;
+}
+
+nav a{text-decoration: none;
+color: darkorchid;
+background-color: violet;
+padding: 5px;
+border-radius: 5px;
+border:1px solid darkorchid}
+h2{color: white;
+text-align: center;
+margin-top: 311px;}
+
+p{color: white;
+font-size: 16px;
+padding:5px;
+}
+
+nav{position: absolute;
+top:10px;
+right:10px}
+
+.Mercury{text-align:center;
+color:white;
+margin-top: 150px;}
+
+.venus{margin-top: 100px;
+}
+
+.earth{margin-top:100px ;
+}
+
+.mars{margin-top: 100px;
+}
+
+.jupiter{margin-top: 100px;}
+
+.saturn{margin-top: 100px;}
+
+.uranus{top: 100px;
+}
+
+.starr{color:darkorchid;
+}
+
+table{background-color: white;
+color:blacK;
+border-radius: 10px;
+}
+.o{background-color:lightblue ;
+margin-left: 20px;
+border-radius: 10px;}
+.b{background-color:lightcyan;
+margin-left: 20px;
+border-radius: 10px;}
+.a{background-color:white;
+margin-left: 20px;
+border-radius: 10px;}
+.f{background-color:lightyellow;
+margin-left: 20px;
+border-radius: 10px;}
+.g{background-color:yellow;
+margin-left: 20px;
+border-radius: 10px;}
+.k{background-color:rgb(255, 188, 64);
+margin-left: 20px;
+border-radius: 10px;}
+.m{background-color:rgb(238, 176, 132);
+margin-left: 20px;
+border-radius: 10px;}
+.c{background-color:rgb(255, 147, 85);
+margin-left: 20px;
+border-radius: 10px;}
+.s{background-color:lightcoral;
+margin-left: 20px;
+border-radius: 10px;}
+.l{background-color:rgb(241, 64, 64);
+margin-left: 20px;
+border-radius: 10px;}
+.t{background-color:rgba(255, 0, 0, 0.656);
+margin-left: 20px;
+border-radius: 10px;}
+.y{background-color:rgba(255, 0, 0, 0.334);
+margin-left: 20px;
+border-radius: 10px;}
+
+.social{position:relative;
+background-color:violet;
+color: darkorchid;
+border: darkorchid;
+border-radius: 10px;
+padding: 5px;
+margin-top: 20px;
+text-decoration: none;
+bottom:5px;
+left:5px}
+.mercuryimg{position: relative;
+height:100px;
+width:172px;
+float:left;
+border-radius: 10px;
+border:5px solid white}
+.venusimg{position:relative;
+height:100px;
+width: 150px;
+float: right;
+border-radius: 10px;
+border:5px solid white}
+
+.earthimg{position:relative;
+height: 120px;
+width:130px;
+float:right;
+border-radius: 10px;
+border:5px solid white}
+.marsimg{position:relative;
+height:85px;
+width:150px;
+float: left;
+border-radius: 10px;
+border:5px solid white}
+
+.jupiterimg{position:relative;
+height:90px;
+width:95px;
+float:right;
+border-radius: 10px;
+border:5px solid white}
+
+.saturnimg{position: relative;
+height: 100px;
+width:165px;
+float:left;
+border-radius: 10px;
+border:5px solid white}
+
+.uranusimg{position:relative;
+height:132px;
+width:200px;
+float:left;
+border-radius: 10px;
+border:5px solid white}
+
+.neptuneimg{pisition:relative;
+height:100px;
+width:100px;
+float:left;
+border-radius: 10px;
+border:5px solid white
+}
+
+.plutonimg{pisition:relative;
+height:73px;
+width:120px;
+float:right;
+border-radius: 10px;
+border:5px solid white
+}
+
+.mercuryimg2{position: relative;
+width:120px;
+height:100;
+border-radius: 10px;
+border:5px solid white;
+float:right}
+
+.venusimg2{position:relative;
+width:120px;
+height:100px;
+border-radius: 10px;
+border:5px solid white;
+float:left}
+
+.earthimg2{position:relative;
+width:140px;
+height:140px;
+border-radius: 10px;
+border:5px solid white;
+float:left;
+}
+
+.marsimg2{position:relative;
+width:140px;
+height:100px;
+border-radius: 10px;
+border:5px solid white;
+float:right;
+}
+
+.jupiterimg2{position:relative;
+width:140px;
+height:100px;
+border-radius: 10px;
+border:5px solid white;
+float:left;
+}
+
+.saturnimg2{position:relative;
+width:140px;
+height:80px;
+border-radius: 10px;
+border:5px solid white;
+float:right;
+}
+
+.uranusimg2{position:relative;
+width:140px;
+height:100px;
+border-radius: 10px;
+border:5px solid white;
+float:right;
+}
+
+.neptuneimg2{position:relative;
+width:140px;
+height:80px;
+border-radius: 10px;
+border:5px solid white;
+float:right;
+}
+
+.plutonimg2{position:relative;
+width:120px;
+height:100px;
+border-radius: 10px;
+border:5px solid white;
+float:left;
+}
+
+.sun{margin-top: 100px;
+}
+
+.sunimg{height:80px;
+width:100px;
+position: relative;
+float:left;
+border-radius: 10px;
+border:5px solid white;
+}
+
+.sunimg2{height:100px;
+width:100px;
+position: relative;
+float:right;
+border-radius: 10px;
+border:5px solid white;}
