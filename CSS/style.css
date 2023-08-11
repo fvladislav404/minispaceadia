@@ -1,51 +1,51 @@
 body{background-color:black;
 font-family:monospace;
 }
-.logo{width: 550px;
-height: 310px;
+.logo{width: 550 px;
+height: 310 px;
 position:relative;
 top: 0;
 left:0;
-border-radius: 15px;
+border-radius: 15 px;
 }
 
 nav a{text-decoration: none;
 color: darkorchid;
 background-color: violet;
-padding: 5px;
-border-radius: 5px;
-border:1px solid darkorchid}
+padding: 5 px;
+border-radius: 5 px;
+border:1 px solid darkorchid}
 h2{color: white;
 text-align: center;
-margin-top: 311px;}
+margin-top: 311 px;}
 
 p{color: white;
-font-size: 16px;
-padding:5px;
+font-size: 16 px;
+padding:5 px;
 }
 
 nav{position: absolute;
-top:10px;
-right:10px}
+top:10 px;
+right:10 px}
 
 .Mercury{text-align:center;
 color:white;
-margin-top: 150px;}
+margin-top: 150 px;}
 
-.venus{margin-top: 100px;
+.venus{margin-top: 100 px;
 }
 
-.earth{margin-top:100px ;
+.earth{margin-top:100 px ;
 }
 
-.mars{margin-top: 100px;
+.mars{margin-top: 100 px;
 }
 
-.jupiter{margin-top: 100px;}
+.jupiter{margin-top: 100 px;}
 
-.saturn{margin-top: 100px;}
+.saturn{margin-top: 100 px;}
 
-.uranus{top: 100px;
+.uranus{top: 100 px;
 }
 
 .starr{color:darkorchid;
@@ -53,42 +53,42 @@ margin-top: 150px;}
 
 table{background-color: white;
 color:blacK;
-border-radius: 10px;
+border-radius: 10 px;
 }
 .o{background-color:lightblue ;
-margin-left: 20px;
-border-radius: 10px;}
+margin-left: 20 px;
+border-radius: 10 px;}
 .b{background-color:lightcyan;
-margin-left: 20px;
-border-radius: 10px;}
+margin-left: 20 px;
+border-radius: 10 px;}
 .a{background-color:white;
-margin-left: 20px;
-border-radius: 10px;}
+margin-left: 20 px;
+border-radius: 10 px;}
 .f{background-color:lightyellow;
-margin-left: 20px;
-border-radius: 10px;}
+margin-left: 20 px;
+border-radius: 10 px;}
 .g{background-color:yellow;
-margin-left: 20px;
-border-radius: 10px;}
+margin-left: 20 px;
+border-radius: 10 px;}
 .k{background-color:rgb(255, 188, 64);
-margin-left: 20px;
-border-radius: 10px;}
-.m{background-color:rgb(238, 176, 132);
-margin-left: 20px;
-border-radius: 10px;}
-.c{background-color:rgb(255, 147, 85);
+margin-left: 20 px;
+border-radius: 10 px;}
+.m{background-color:rgb#(238, 176, 132);
+margin-left: 20 px;
+border-radius: 10 px;}
+.c{background-color:rgb#(255, 147, 85);
 margin-left: 20px;
 border-radius: 10px;}
 .s{background-color:lightcoral;
+margin-left: 20 px;
+border-radius: 10 px;}
+.l{background-color:rgb#(241, 64, 64);
 margin-left: 20px;
 border-radius: 10px;}
-.l{background-color:rgb(241, 64, 64);
+.t{background-color:rgb#(255, 0, 0, 0.656);
 margin-left: 20px;
 border-radius: 10px;}
-.t{background-color:rgba(255, 0, 0, 0.656);
-margin-left: 20px;
-border-radius: 10px;}
-.y{background-color:rgba(255, 0, 0, 0.334);
+.y{background-color:rgb#(255, 0, 0, 0.334);
 margin-left: 20px;
 border-radius: 10px;}
 
@@ -96,212 +96,212 @@ border-radius: 10px;}
 background-color:violet;
 color: darkorchid;
 border: darkorchid;
-border-radius: 10px;
-padding: 5px;
-margin-top: 20px;
+border-radius: 10 px;
+padding: 5 px;
+margin-top: 20 px;
 text-decoration: none;
-bottom:5px;
-left:5px}
+bottom:5 px;
+left:5 px}
 .mercuryimg{position: relative;
-height:100px;
-width:172px;
+height:100 px;
+width:172 px;
 float:left;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 .venusimg{position:relative;
-height:100px;
-width: 150px;
+height:100 px;
+width: 150 px;
 float: right;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 
 .earthimg{position:relative;
-height: 120px;
-width:130px;
+height: 120 px;
+width:130 px;
 float:right;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 .marsimg{position:relative;
-height:85px;
-width:150px;
+height:85 px;
+width:150 px;
 float: left;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 
 .jupiterimg{position:relative;
-height:90px;
-width:95px;
+height:90 px;
+width:95 px;
 float:right;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 
 .saturnimg{position: relative;
-height: 100px;
-width:165px;
+height: 100 px;
+width:165 px;
 float:left;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 
 .uranusimg{position:relative;
-height:132px;
-width:200px;
+height:132 px;
+width:200 px;
 float:left;
-border-radius: 10px;
-border:5px solid white}
+border-radius: 10 px;
+border:5 px solid white}
 
 .neptuneimg{pisition:relative;
-height:100px;
-width:100px;
+height:100 px;
+width:100 px;
 float:left;
-border-radius: 10px;
-border:5px solid white
+border-radius: 10 px;
+border:5 px solid white
 }
 
 .plutonimg{pisition:relative;
-height:73px;
-width:120px;
+height:73 px;
+width:120 px;
 float:right;
-border-radius: 10px;
-border:5px solid white
+border-radius: 10 px;
+border:5 px solid white
 }
 
 .mercuryimg2{position: relative;
-width:120px;
+width:120 px;
 height:100;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 float:right}
 
 .venusimg2{position:relative;
-width:120px;
-height:100px;
-border-radius: 10px;
-border:5px solid white;
+width:120 px;
+height:100 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:left}
 
 .earthimg2{position:relative;
-width:140px;
-height:140px;
-border-radius: 10px;
-border:5px solid white;
+width:140 px;
+height:140 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:left;
 }
 
 .marsimg2{position:relative;
-width:140px;
-height:100px;
-border-radius: 10px;
-border:5px solid white;
+width:140 px;
+height:100 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:right;
 }
 
 .jupiterimg2{position:relative;
-width:140px;
-height:100px;
-border-radius: 10px;
-border:5px solid white;
+width:140 px;
+height:100 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:left;
 }
 
 .saturnimg2{position:relative;
-width:140px;
-height:80px;
-border-radius: 10px;
-border:5px solid white;
+width:140 px;
+height:80 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:right;
 }
 
 .uranusimg2{position:relative;
-width:140px;
-height:100px;
-border-radius: 10px;
-border:5px solid white;
+width:140 px;
+height:100 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:right;
 }
 
 .neptuneimg2{position:relative;
-width:140px;
-height:80px;
-border-radius: 10px;
-border:5px solid white;
+width:140 px;
+height:80 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:right;
 }
 
 .plutonimg2{position:relative;
-width:120px;
-height:100px;
-border-radius: 10px;
-border:5px solid white;
+width:120 px;
+height:100 px;
+border-radius: 10 px;
+border:5 px solid white;
 float:left;
 }
 
-.sun{margin-top: 100px;
+.sun{margin-top: 100 px;
 }
 
-.sunimg{height:80px;
-width:100px;
+.sunimg{height:80 px;
+width:100 px;
 position: relative;
 float:left;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 }
 
-.sunimg2{height:100px;
-width:100px;
+.sunimg2{height:100 px;
+width:100 px;
 position: relative;
 float:right;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 }
-.proxima{margin-top: 100px;}
+.proxima{margin-top: 100 px;}
 
-.proximaimg{height:75px;
-width:100px;
+.proximaimg{height:75 px;
+width:100 px;
 position: relative;
 float:right;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 }
-.proximaimg2{height:90px;
-width:100px;
+.proximaimg2{height:90 px;
+width:100 px;
 position: relative;
 float:left;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 }
 
-.luman{margin-top:100px
+.luman{margin-top:100 px
 }
 
-.lumanimg{height:90px;
-width:130px;
+.lumanimg{height:90 px;
+width:130 px;
 position: relative;
 float:left;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 }
 
-.lumanimg2{height:85px;
-width:130px;
+.lumanimg2{height:85 px;
+width:130 px;
 position: relative;
 float:right;
-border-radius: 10px;
-border:5px solid white;
+border-radius: 10 px;
+border:5 px solid white;
 }
 
-.sirius{margin-top: 100px;
+.sirius{margin-top: 100 px;
 }
 
-.siriusimg{height:80px;
-width:130px;
+.siriusimg{height:80 px;
+width:130 px;
 position: relative;
 float:right;
-border-radius: 10px;
-border:5px solid white;}
+border-radius: 10 px;
+border:5 px solid white;}
 
-.siriusimg2{height:95px;
-width:100px;
+.siriusimg2{height:95 px;
+width:100 px;
 position: relative;
 float:left;
-border-radius: 10px;
-border:5px solid white;}
+border-radius: 10 px;
+border:5 px solid white;}
